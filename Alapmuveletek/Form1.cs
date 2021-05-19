@@ -54,7 +54,7 @@ namespace Alapmuveletek
 
         private void Kivonas_Click(object sender, EventArgs e)
         {
-
+            lblFeladatKiir.Text = "8-3";
         }
 
         private void Megoldas_Click(object sender, EventArgs e)

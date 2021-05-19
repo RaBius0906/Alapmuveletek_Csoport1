@@ -1,0 +1,10 @@
+C:\Users\CFY\source\repos\Alapmuveletek\Alapmuveletek\bin\Debug\Alapmuveletek.exe.config
+C:\Users\CFY\source\repos\Alapmuveletek\Alapmuveletek\bin\Debug\Alapmuveletek.exe
+C:\Users\CFY\source\repos\Alapmuveletek\Alapmuveletek\bin\Debug\Alapmuveletek.pdb
+C:\Users\CFY\source\repos\Alapmuveletek\Alapmuveletek\obj\Debug\Alapmuveletek.csprojAssemblyReference.cache
+C:\Users\CFY\source\repos\Alapmuveletek\Alapmuveletek\obj\Debug\Alapmuveletek.Form1.resources
+C:\Users\CFY\source\repos\Alapmuveletek\Alapmuveletek\obj\Debug\Alapmuveletek.Properties.Resources.resources
+C:\Users\CFY\source\repos\Alapmuveletek\Alapmuveletek\obj\Debug\Alapmuveletek.csproj.GenerateResource.cache
+C:\Users\CFY\source\repos\Alapmuveletek\Alapmuveletek\obj\Debug\Alapmuveletek.csproj.CoreCompileInputs.cache
+C:\Users\CFY\source\repos\Alapmuveletek\Alapmuveletek\obj\Debug\Alapmuveletek.exe
+C:\Users\CFY\source\repos\Alapmuveletek\Alapmuveletek\obj\Debug\Alapmuveletek.pdb
