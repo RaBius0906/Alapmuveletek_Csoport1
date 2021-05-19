@@ -8,6 +8,8 @@ namespace Alapmuveletek
 {
     static class Program
     {
+        static Random rnd = new Random();
+
         /// <summary>
         /// The main entry point for the application.
         /// </summary>

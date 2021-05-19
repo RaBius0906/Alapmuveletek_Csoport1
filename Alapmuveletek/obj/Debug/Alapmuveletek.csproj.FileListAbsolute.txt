@@ -20,3 +20,13 @@ C:\Users\vincz\source\repos\Alapmuveletek_csoport1\Alapmuveletek_Csoport1\Alapmu
 C:\Users\vincz\source\repos\Alapmuveletek_csoport1\Alapmuveletek_Csoport1\Alapmuveletek\obj\Debug\Alapmuveletek.exe
 C:\Users\vincz\source\repos\Alapmuveletek_csoport1\Alapmuveletek_Csoport1\Alapmuveletek\obj\Debug\Alapmuveletek.pdb
 >>>>>>> 18227d7f090654f8a0218d0eea449140c93222cd
+C:\Users\Ákos\source\repos\Bianka\Alapmuveletek_Csoport1\Alapmuveletek\bin\Debug\Alapmuveletek.exe.config
+C:\Users\Ákos\source\repos\Bianka\Alapmuveletek_Csoport1\Alapmuveletek\bin\Debug\Alapmuveletek.exe
+C:\Users\Ákos\source\repos\Bianka\Alapmuveletek_Csoport1\Alapmuveletek\bin\Debug\Alapmuveletek.pdb
+C:\Users\Ákos\source\repos\Bianka\Alapmuveletek_Csoport1\Alapmuveletek\obj\Debug\Alapmuveletek.csprojAssemblyReference.cache
+C:\Users\Ákos\source\repos\Bianka\Alapmuveletek_Csoport1\Alapmuveletek\obj\Debug\Alapmuveletek.Form1.resources
+C:\Users\Ákos\source\repos\Bianka\Alapmuveletek_Csoport1\Alapmuveletek\obj\Debug\Alapmuveletek.Properties.Resources.resources
+C:\Users\Ákos\source\repos\Bianka\Alapmuveletek_Csoport1\Alapmuveletek\obj\Debug\Alapmuveletek.csproj.GenerateResource.cache
+C:\Users\Ákos\source\repos\Bianka\Alapmuveletek_Csoport1\Alapmuveletek\obj\Debug\Alapmuveletek.csproj.CoreCompileInputs.cache
+C:\Users\Ákos\source\repos\Bianka\Alapmuveletek_Csoport1\Alapmuveletek\obj\Debug\Alapmuveletek.exe
+C:\Users\Ákos\source\repos\Bianka\Alapmuveletek_Csoport1\Alapmuveletek\obj\Debug\Alapmuveletek.pdb

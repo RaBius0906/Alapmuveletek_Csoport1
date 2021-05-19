@@ -10,8 +10,10 @@ using System.Windows.Forms;
 
 namespace Alapmuveletek
 {
+    
     public partial class Form1 : Form
     {
+        static Random rnd = new Random();
         public Form1()
         {
             InitializeComponent();
@@ -19,12 +21,26 @@ namespace Alapmuveletek
 
         private void Osszeadas_Click(object sender, EventArgs e)
         {
-            lblFeladatKiir.Text = "8+12";
+            string jel = "+";
+            feladatotGenerál(jel);
+        }
+
+        private void feladatotGenerál(string jel)
+        {
+            int szám1 = kérSzámot();
+            int szám2 = kérSzámot();
+            lblFeladatKiir.Text = $"{szám1}{jel}{szám2}";
+        }
+
+        public int kérSzámot()
+        {
+            return rnd.Next(0, 101);
         }
 
         private void Szorzas_Click(object sender, EventArgs e)
         {
-
+            string jel = "*";
+            feladatotGenerál(jel);
         }
 
         private void label1_Click(object sender, EventArgs e)
@@ -49,12 +65,14 @@ namespace Alapmuveletek
 
         private void Osztas_Click(object sender, EventArgs e)
         {
-
+            string jel = "/";
+            feladatotGenerál(jel);
         }
 
         private void Kivonas_Click(object sender, EventArgs e)
         {
-            lblFeladatKiir.Text = "8-3";
+            string jel = "-";
+            feladatotGenerál(jel);
         }
 
         private void Megoldas_Click(object sender, EventArgs e)
