@@ -19,7 +19,7 @@ namespace Alapmuveletek
 
         private void Osszeadas_Click(object sender, EventArgs e)
         {
-
+            lblFeladatKiir.Text = "8+12";
         }
 
         private void Szorzas_Click(object sender, EventArgs e)

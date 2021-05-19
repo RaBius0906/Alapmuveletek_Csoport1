@@ -1,0 +1,9 @@
+C:\Users\vincz\source\repos\Alapmuveletek_csoport1\Alapmuveletek_Csoport1\Alapmuveletek\bin\Debug\Alapmuveletek.exe.config
+C:\Users\vincz\source\repos\Alapmuveletek_csoport1\Alapmuveletek_Csoport1\Alapmuveletek\bin\Debug\Alapmuveletek.exe
+C:\Users\vincz\source\repos\Alapmuveletek_csoport1\Alapmuveletek_Csoport1\Alapmuveletek\bin\Debug\Alapmuveletek.pdb
+C:\Users\vincz\source\repos\Alapmuveletek_csoport1\Alapmuveletek_Csoport1\Alapmuveletek\obj\Debug\Alapmuveletek.csprojAssemblyReference.cache
+C:\Users\vincz\source\repos\Alapmuveletek_csoport1\Alapmuveletek_Csoport1\Alapmuveletek\obj\Debug\Alapmuveletek.Properties.Resources.resources
+C:\Users\vincz\source\repos\Alapmuveletek_csoport1\Alapmuveletek_Csoport1\Alapmuveletek\obj\Debug\Alapmuveletek.csproj.GenerateResource.cache
+C:\Users\vincz\source\repos\Alapmuveletek_csoport1\Alapmuveletek_Csoport1\Alapmuveletek\obj\Debug\Alapmuveletek.csproj.CoreCompileInputs.cache
+C:\Users\vincz\source\repos\Alapmuveletek_csoport1\Alapmuveletek_Csoport1\Alapmuveletek\obj\Debug\Alapmuveletek.exe
+C:\Users\vincz\source\repos\Alapmuveletek_csoport1\Alapmuveletek_Csoport1\Alapmuveletek\obj\Debug\Alapmuveletek.pdb
