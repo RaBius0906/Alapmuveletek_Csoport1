@@ -14,6 +14,8 @@ namespace Alapmuveletek
     public partial class Form1 : Form
     {
         static Random rnd = new Random();
+        public bool sok = false;
+
         public Form1()
         {
             InitializeComponent();
@@ -27,9 +29,39 @@ namespace Alapmuveletek
 
         private void feladatotGenerál(string jel)
         {
-            int szám1 = kérSzámot();
-            int szám2 = kérSzámot();
+
+            int szám1;
+            int szám2;
+            do
+            {
+                szám1 = kérSzámot();
+                szám2 = kérSzámot();
+                leelenőrizSzámok(szám1, szám2, jel); 
+            } while (sok);
+
             lblFeladatKiir.Text = $"{szám1}{jel}{szám2}";
+        }
+
+        private bool leelenőrizSzámok(int szám1, int szám2, string jel)
+        {
+            
+            switch (jel)
+            {
+
+                case "+":
+                    sok = (szám1 + szám2 > 100) ? true : false;
+                    break;
+                case "-":
+                    sok = (szám1 - szám2 < 0) ? true : false;
+                    break;
+                case "*":
+                    sok = (szám1 * szám2 > 100) ? true : false;
+                    break;
+                case "/":
+                    sok = (szám2 == 0) || (szám1 % szám2 != 0) ? true : false;
+                    break;
+            }
+            return sok;
         }
 
         public int kérSzámot()
